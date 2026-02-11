@@ -25,7 +25,7 @@ Genres included:
 
 Dataset components used:
 
-- `features_30_sec.csv` → Tabular audio features
+- `features_3_sec.csv` → Tabular audio features
 - `images_original/` → Mel-spectrogram images for CNN training
 
 <br>
