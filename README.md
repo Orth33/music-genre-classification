@@ -10,7 +10,7 @@ This project focuses on **automatic music genre classification**, a multi-class 
 - **Image-based classification** using mel-spectrogram images and Convolutional Neural Networks (CNNs)
 
 The goal is to **train, evaluate, and compare** both approaches to understand their effectiveness in classifying music genres.
-***
+
 <br>
 
 ## **2. Dataset Overview**
@@ -27,7 +27,7 @@ Dataset components used:
 
 - `features_30_sec.csv` → Tabular audio features
 - `images_original/` → Mel-spectrogram images for CNN training
-***
+
 <br>
 
 ## **3. Environment Setup**
